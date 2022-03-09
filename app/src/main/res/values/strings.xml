@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloSharedPrefs</string>
+    <string name="numcount">0</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="Count">Count</string>
+    <string name="openmainactivity">OpenMainActivity</string>
+    <string name="clear">Clear</string>
+</resources>
